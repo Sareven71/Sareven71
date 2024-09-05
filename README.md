@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sareven71
+- 👀 I’m interested in smart contracts and blockchain.
+- 🌱 I’m currently learning solidity.
