@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sareven71
-- 👀 I’m interested in smart contracts and blockchain.
-- 🌱 I’m currently learning solidity.
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently gaining some real world experience by building some scalable backend focused projects.
